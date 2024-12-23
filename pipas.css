@@ -1,0 +1,74 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+nav {
+    background-color: blue;
+}
+nav ul li {
+    text-decoration: none;
+    text-align: center;
+    justify-content: center;
+    list-style-type: none;
+    color: white;
+
+}
+
+h2 {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    background-color: blue;
+    color: white;
+    
+}
+
+.rawr {
+    list-style-type: none;
+    text-decoration: none;
+    display: flex;
+    gap: 2.5rem;
+    justify-content: center;
+    padding-top: 20px;
+    text-decoration: underline;
+}
+
+h3 {
+    display: flex;
+    justify-content: center;
+}
+
+.abc {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    padding: 10px;
+    
+}
+
+li {
+    list-style-type: none;
+    text-decoration: none;
+    padding: 7px;
+    
+}
+
+.ppdb {
+    list-style-type: none;
+    text-align: center;
+}
+
+footer {
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    border-radius: 10px;
+    position: absolute;
+    bottom: 0px;
+    width: 100%;
+    color: black;
+    position: fixed;
+}
+
+
+
